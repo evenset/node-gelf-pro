@@ -27,7 +27,8 @@
   },
   "dependencies": {
     "async": "2.6.0",
-    "lodash": "4.17.5"
+    "lodash": "4.17.5",
+    "react-native-randombytes": "^3.0.0"
   },
   "devDependencies": {
     "coveralls": "^2.13.3",
