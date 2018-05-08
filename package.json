@@ -45,7 +45,9 @@
     "react-native-tcp": "^3.3.0",
     "react-native-tls": "^0.0.2",
     "react-native-udp": "^2.3.1",
-    "react-zlib-js": "^1.0.4"
+    "react-zlib-js": "^1.0.4",
+    "stream": "^0.0.2",
+    "stream-browserify": "^2.0.1"
   },
   "devDependencies": {
     "coveralls": "^2.13.3",
