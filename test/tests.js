@@ -2,12 +2,11 @@
 
 var PATH_LIB = ['..', 'lib'].join('/');
 
-var path = require('path'),
-  sinon = require('sinon'),
+var sinon = require('sinon'),
   events = require('events'),
   should = require('should'),
   _ = require('lodash'),
-  gelfOriginal = require(path.join(PATH_LIB, 'gelf-pro'));
+  gelfOriginal = require('../lib/gelf-pro');
 
 // helper functions
 var getLongMessage = function (len) {
