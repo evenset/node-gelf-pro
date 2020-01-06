@@ -83,7 +83,7 @@
     "react-native-randombytes": "^3.5.3",
     "react-native-tcp": "https://github.com/SaferNodeJS/react-native-tcp.git#master",
     "react-native-tls": "^0.0.2",
-    "react-native-udp": "^2.3.1",
+    "react-native-udp": "^2.7.0",
     "react-zlib-js": "^1.0.4",
     "readable-stream": "^2.3.6",
     "rn-nodeify": "^10.0.0",
