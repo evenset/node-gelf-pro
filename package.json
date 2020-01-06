@@ -81,7 +81,7 @@
     "react-native-os": "^1.2.1",
     "react-native-process-shim": "^1.0.1",
     "react-native-randombytes": "^3.5.3",
-    "react-native-tcp": "^3.3.2",
+    "react-native-tcp": "https://github.com/SaferNodeJS/react-native-tcp.git#master",
     "react-native-tls": "^0.0.2",
     "react-native-udp": "^2.3.1",
     "react-zlib-js": "^1.0.4",
